@@ -109,24 +109,24 @@ export const DATA = {
     {
       company: "Creative Kigen Consulting",
       href: "https://creativekigen.com/",
-      badges: ["HTML", "CSS", "Javascript","React",],
+      badges: ["HTML", "CSS", "Javascript","React","Wordpress"],
       location: "Remote",
       title: "Frontend Developer",
-      logoUrl: "/foursys.png",
+      logoUrl: "/CreativeKIGEN.png",
       start: "Jan 2025",
       end: "Present",
-      description: `KUNITY SACCO is a financial cooperative in Kenya that provides savings, credit, and investment solutions to its members. It focuses on empowering individuals through affordable financial services, enabling them to achieve financial stability and growth.
+      description: `Working on software development projects as a Frontend developer, focusing on the front-end with JavaScript, creating responsive screens aligned with client preferences and requests. Development of projects using:
 
-      - Provided technical support by troubleshooting hardware.
-      - Software, and networkconnectivity issues.
-      - Maintained and updated systems.
-      - Performing regular backups and system checks.
-      - Installed and configured software and devices.
-      - Assisted with network management, monitoring infrastructure, and addressingconnectivity issues.
-      - Updated and created documentation for IT procedures and system configurations.
-      - Managed databases by performing data entry, cleanup, and migrations.
-      - GIT for version control of developed code.
-      - Methodologies for managing Technology Projects`,
+      - React (with libraries like Zod and Hook Form)
+      - Vite/Next
+      - HTML
+      - React
+      -APIs
+      - CSS
+      - Styled-Components
+      - Material UI
+      - JavaScript
+      -Wordpress`,
       
     },
   ],
