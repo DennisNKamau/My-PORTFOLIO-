@@ -107,14 +107,14 @@ export const DATA = {
       - JavaScript`,
     },
     {
-      company: "K-UNITY SACCO",
-      href: "https://foursys.com.br/",
-      badges: ["Technical support", "Troubleshooting", "Networking"],
-      location: "Kiambu,Kenya",
-      title: "Information Technology intern",
+      company: "Creative Kigen Consulting",
+      href: "https://creativekigen.com/",
+      badges: ["HTML", "CSS", "Javascript","React",],
+      location: "Remote",
+      title: "Frontend Developer",
       logoUrl: "/foursys.png",
-      start: "March 2022",
-      end: "Aug 2022",
+      start: "Jan 2025",
+      end: "Present",
       description: `KUNITY SACCO is a financial cooperative in Kenya that provides savings, credit, and investment solutions to its members. It focuses on empowering individuals through affordable financial services, enabling them to achieve financial stability and growth.
 
       - Provided technical support by troubleshooting hardware.
