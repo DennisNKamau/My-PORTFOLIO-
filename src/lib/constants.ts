@@ -106,6 +106,29 @@ export const DATA = {
       - Material UI
       - JavaScript`,
     },
+    {
+      company: "K-UNITY SACCO",
+      href: "https://foursys.com.br/",
+      badges: ["Technical support", "Troubleshooting", "Networking"],
+      location: "Kiambu,Kenya",
+      title: "Information Technology intern",
+      logoUrl: "/foursys.png",
+      start: "March 2022",
+      end: "Aug 2022",
+      description: `KUNITY SACCO is a financial cooperative in Kenya that provides savings, credit, and investment solutions to its members. It focuses on empowering individuals through affordable financial services, enabling them to achieve financial stability and growth.
+
+      - Provided technical support by troubleshooting hardware.
+      - Software, and networkconnectivity issues.
+      - Maintained and updated systems.
+      - Performing regular backups and system checks.
+      - Installed and configured software and devices.
+      - Assisted with network management, monitoring infrastructure, and addressingconnectivity issues.
+      - Updated and created documentation for IT procedures and system configurations.
+      - Managed databases by performing data entry, cleanup, and migrations.
+      - GIT for version control of developed code.
+      - Methodologies for managing Technology Projects`,
+      
+    },
   ],
   education: [
     {
