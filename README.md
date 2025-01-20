@@ -40,4 +40,4 @@ I'm also available on **LinkedIn**: [Dennis Kamau]((https://www.linkedin.com/in/
 
 ---
 
-Thank you for visiting my portfolio!
+Thank you for visiting my portfolio.
