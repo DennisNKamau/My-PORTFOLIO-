@@ -30,11 +30,11 @@ Utilizing technologies like **React** and **TypeScript**, I aim to create seamle
 - TypeScript
 - Tailwind CSS
 - Framer Motion
-- Radix UI /w Shadcn/ui
+- Radix UI /w Shadcn/UI
 
 ### Contact
 
-For any assistance or collaboration, you can reach me at [renatorrodrigues2002@gmail.com](mailto:denniskamaudev@gmail.com).
+For any assistance or collaboration, you can reach me at [denniskamaudev@gmail.com](mailto:denniskamaudev@gmail.com).
 
 I'm also available on **LinkedIn**: [Dennis Kamau]((https://www.linkedin.com/in/-dennis-kamau-/)). Feel free to connect!
 
