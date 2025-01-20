@@ -36,7 +36,7 @@ Utilizing technologies like **React** and **TypeScript**, I aim to create seamle
 
 For any assistance or collaboration, you can reach me at [denniskamaudev@gmail.com](mailto:denniskamaudev@gmail.com).
 
-I'm also available on **LinkedIn**: [Dennis Kamau]((https://www.linkedin.com/in/-dennis-kamau-/)). Feel free to connect!
+I'm also available on **LinkedIn**: [Dennis Kamau]((https://www.linkedin.com/in/-dennis-kamau-/)). Feel free to connect.
 
 ---
 
