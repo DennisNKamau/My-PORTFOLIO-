@@ -13,10 +13,10 @@ export const DATA = {
   initials: "DK",
   avatarUrl: "/my-pic.jpg",
   resume:
-    "I'm a passionate and dedicated **Software developer**, constantly seeking to enhance my skills and tackle new technological challenges. My journey in software development began with a keen interest in creating intuitive user experiences and has evolved into a comprehensive understanding of the entire development lifecycle. I'm a **Frontend Developer** focused in creating responsive and modern web applications using **Frontend technologies.**",
+    "I'm a passionate and dedicated **Software Developer** and **Graphic Designer**, constantly seeking to enhance my skills and tackle new technological challenges. My journey in software development began with a keen interest in creating intuitive user experiences and has evolved into a comprehensive understanding of the entire development lifecycle. Alongside development, I also specialize in graphic design, creating visually engaging brand identities, marketing materials, and digital creatives that enhance user experience and brand communication. I'm a Frontend Developer focused on creating responsive and modern web applications using frontend technologies while combining creativity and design to build impactful digital experiences.",
   description:
-    "I'm a Software Developer focused in Frontend development. I love building things for the web and always eager to learn new technologies.",
-  role: "Software Developer",
+    "I'm a Software Developer and Graphic Designer focused on Frontend development. I love building things for the web and creating visually engaging digital experiences, while always staying eager to learn new technologies and improve my creative and technical skills.",
+  role: "Software Developer & Graphic Designer",
   location: "Nairobi, Kenya",
 
   skills: [
@@ -25,12 +25,9 @@ export const DATA = {
     "Javascript",
     "Tailwind",
     "CSS",
-    "Vite",
-    "Git",
-    "Python",
-    "PostgreSQL",
-    "Node",
-    "Linux",
+    "Wordpress",
+    "Adobe Photoshop",
+    "Adobe Illustrator",
   ],
   navbar: [
     {
@@ -45,8 +42,8 @@ export const DATA = {
     // },
   ],
   contact: {
-    email: "renatorrodrigues2002@gmail.com",
-    phone: "(27) 99311-7272",
+    email: "njaudennis30@gmail.com",
+    phone: "0798450404",
     social: {
       Linkedin: {
         name: "Linkedin",
@@ -278,11 +275,11 @@ export const DATA = {
       video: "",
     },
     {
-      title: "Echoweb Solutions",
-      href: "https://echowebsolutions.netlify.app/",
+      title: "Angaza Digital",
+      href: "https://angazadigital.netlify.app/",
       active: false,
       description:
-        "Echoweb Solutions is the digital home of a professional web design agency dedicated to crafting innovative and user-centric websites. Specializing in responsive design, development, and online branding, the site showcases a commitment to delivering tailored web services that help businesses establish a strong online presence. From sleek interfaces to seamless functionality, Echoweb Solutions embodies creativity and technical excellence in every project.",
+        "Angaza Digital is a creative digital agency focused on helping businesses grow through modern web design, branding, and digital solutions. The website showcases the agency’s services, portfolio, and expertise through a clean, professional, and conversion-focused design that enhances brand visibility and creates impactful online experiences for clients.",
       technologies: [
         "HTML",
         "Javascript",
@@ -293,11 +290,11 @@ export const DATA = {
       links: [
         {
           type: "Website",
-          href: "https://echowebsolutions.netlify.app/",
+          href: "https://angazadigital.netlify.app/",
         },
         {
             type: "Code",
-            href: "https://github.com/DennisNKamau/EchoWeb-Solutions",
+            href: "https://github.com/DennisNKamau/Angaza-Digital",
         },
       ],
       image: "",
