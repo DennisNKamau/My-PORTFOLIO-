@@ -108,22 +108,22 @@ export const DATA = {
       href: "https://creativekigen.com/",
       badges: ["HTML", "CSS", "Javascript","React","Wordpress"],
       location: "Remote",
-      title: "Frontend Developer",
+      title: "Frontend Developer & Graphic Designer",
       logoUrl: "/CreativeKIGEN.png",
       start: "Jan 2025",
       end: "Present",
-      description: `Working on software development projects as a Frontend developer, focusing on the front-end with JavaScript, creating responsive screens aligned with client preferences and requests. Development of projects using:
+      description: `Working on software development projects as a Frontend Developer, focusing on building responsive and interactive user interfaces with JavaScript while aligning designs with client preferences and project requirements. I also incorporate graphic design principles to create visually appealing and engaging digital experiences that enhance usability and brand identity. Development and designing of projects using:
 
-      - React (with libraries like Zod and Hook Form)
-      - Vite/Next
       - HTML
-      - React
-      -APIs
       - CSS
-      - Styled-Components
-      - Material UI
       - JavaScript
-      -Wordpress`,
+      - React
+      - Wordpress
+      - Adobe Photoshop
+      - Adobe Illustrator
+      -APIs
+      - Styled-Components
+      - Material UI`,
       
     },
   ],
