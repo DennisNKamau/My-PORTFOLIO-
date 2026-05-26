@@ -251,5 +251,57 @@ export const DATA = {
       image: "",
       video: "",
     },
+    {
+      title: "AquaVend Kenya",
+      href: "https://njiriritech.github.io/Plc2/",
+      active: false,
+      description:
+        "Aquavend Kenya is a modern water solutions platform designed to connect customers with reliable and affordable water supply services across Kenya. The website features a clean, user-friendly design that showcases the company’s water vending solutions, delivery services, product offerings, and contact information while creating a professional online presence that builds trust and accessibility for customers.",
+      technologies: [
+        "HTML",
+        "Javascript",
+        "CSS",
+        "Web3 Form API",
+        "Google maps API",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://njiriritech.github.io/Plc2/",
+        },
+        {
+            type: "Code",
+            href: "https://github.com/DennisNKamau/Plc2Kev",
+        },
+      ],
+      image: "",
+      video: "",
+    },
+    {
+      title: "Echoweb Solutions",
+      href: "https://echowebsolutions.netlify.app/",
+      active: false,
+      description:
+        "Echoweb Solutions is the digital home of a professional web design agency dedicated to crafting innovative and user-centric websites. Specializing in responsive design, development, and online branding, the site showcases a commitment to delivering tailored web services that help businesses establish a strong online presence. From sleek interfaces to seamless functionality, Echoweb Solutions embodies creativity and technical excellence in every project.",
+      technologies: [
+        "HTML",
+        "Javascript",
+        "CSS",
+        "Web3 Form API",
+        "Google maps API",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://echowebsolutions.netlify.app/",
+        },
+        {
+            type: "Code",
+            href: "https://github.com/DennisNKamau/EchoWeb-Solutions",
+        },
+      ],
+      image: "",
+      video: "",
+    },
   ],
 };
